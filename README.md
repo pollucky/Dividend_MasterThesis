@@ -1,6 +1,6 @@
 # Dividend_MasterThesis
 
-My name is **Polina Shchukina**. I'm author of telegram channel @rstudioprogr. 
+My name is **Polina Shchukina**. I'm author of telegram channel @rstudioprogr (https://t.me/rstudioprogr). 
 In 2024 I'm an graduater from Moscow State University, master program: Financial Analytics. 
 
 In this project you can find the data, code (RStudio) and additional materials to explain the tricky Dividend topic according to Russian public companies from 2010 to 2022. 
